@@ -33,7 +33,7 @@ html,body{
 /*id* uses hashtags like a id number and classes uses dots like accessing an object in a class*/
 .flexbox {
     display: block;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     padding-top: 4vw;
   }
   
